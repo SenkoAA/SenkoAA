@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Country0|City0|Street0|HomeNumber0|RestrauntName0</key>
+	<string>Comment0</string>
+	<key>Country1|City1|Street1|HomeNumber1|RestrauntName1</key>
+	<string>Comment1</string>
+	<key>Country2|City2|Street2|HomeNumber2|RestrauntName2</key>
+	<string>Comment2</string>
+	<key>Country3|City3|Street3|HomeNumber3|RestrauntName3</key>
+	<string>Comment3</string>
+	<key>Country4|City4|Street4|HomeNumber4|RestrauntName4</key>
+	<string>Comment4</string>
+</dict>
+</plist>
